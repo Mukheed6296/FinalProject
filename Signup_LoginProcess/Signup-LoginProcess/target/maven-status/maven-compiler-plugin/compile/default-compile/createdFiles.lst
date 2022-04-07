@@ -1,0 +1,6 @@
+com\example\Signup\LoginProcess\Application.class
+com\example\Signup\LoginProcess\Register.class
+com\example\Signup\LoginProcess\RegisterRepository$ProductRepository.class
+com\example\Signup\LoginProcess\RegisterController.class
+com\example\Signup\LoginProcess\RegisterRepository.class
+com\example\Signup\LoginProcess\RegisterService.class
